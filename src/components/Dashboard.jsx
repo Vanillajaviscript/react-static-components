@@ -4,7 +4,7 @@ import AverageRating from "./AverageRating";
 import SentimentAnalysis from "./SentimentAnalysis";
 import WebsiteVisitors from "./WebsiteVisitors";
 import Sidebar from "./Sidebar";
-import "../Dashboard.css";
+import "../css/Dashboard.css";
 const Dashboard = (props) => {
     return(
         <div className="dashboard">

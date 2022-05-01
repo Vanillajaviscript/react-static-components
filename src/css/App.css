@@ -1,0 +1,12 @@
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+  }
+
+
+div {
+    border: 1px solid rgba(129, 115, 117, 0.507);
+    margin: 5px;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.466);
+  }

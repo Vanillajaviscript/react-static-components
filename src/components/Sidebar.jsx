@@ -1,4 +1,4 @@
-import "../Sidebar.css";
+import "../css/Sidebar.css";
 
 const Sidebar = props => {
     return (
