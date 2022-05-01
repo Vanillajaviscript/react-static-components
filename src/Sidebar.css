@@ -1,0 +1,17 @@
+.sidebar {
+    display: grid;
+    grid-row: 1 / 4;
+    grid-column: 1 / 2;
+    background-color: #0707068f;
+}
+
+#list-items, li, a {
+    list-style-type: none;
+
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration:underline;
+}

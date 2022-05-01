@@ -1,11 +1,10 @@
+import React from "react";
 
-
-const Reviews = (props) => {
+const Reviews = props => {
     return (
         <div className="reviews">
-            <p>
-                Reviews {props.reviews}
-            </p>
+            <h1>Reviews</h1>
+            <p>1,282</p>
         </div>
     )
 }

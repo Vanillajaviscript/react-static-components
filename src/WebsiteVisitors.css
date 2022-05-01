@@ -1,0 +1,6 @@
+.website-visitors {
+    display: grid;
+    grid-row: 2 / 4;
+    grid-column: 2 / 5;
+    background-color: #0707068f;
+}
