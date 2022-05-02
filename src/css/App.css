@@ -1,12 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,300&family=Orbitron&display=swap');
+
 * {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Noto Sans', sans-serif;
     color: white;
   }
-
-
 div {
-    border: 1px solid rgba(129, 115, 117, 0.507);
-    margin: 5px;
-    padding: 5px;
-    background-color: rgba(0, 0, 0, 0.466);
+    margin: 2px;
+    padding: 2px;
+    background-color: rgba(0, 0, 0, 0.288);
   }
+  

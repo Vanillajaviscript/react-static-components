@@ -2,12 +2,10 @@
     display: grid;
     grid-row: 1 / 4;
     grid-column: 1 / 2;
-    background-color: #0707068f;
+    background-color: #f3f32f8f;
 }
-
 #list-items, li, a {
     list-style-type: none;
-
 }
 a:link {
     text-decoration: none;

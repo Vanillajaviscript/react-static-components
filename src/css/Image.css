@@ -1,0 +1,6 @@
+.image {
+    box-shadow: 5px 5px 5px gray;
+}
+img {
+    max-width: 800px;
+}

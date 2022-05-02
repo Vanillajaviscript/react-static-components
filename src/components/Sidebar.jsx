@@ -5,10 +5,10 @@ const Sidebar = props => {
         <div className="sidebar">
             <h1>Sidebar</h1>
             <ul id="list-items">
-                <li><a href="*">Widget</a></li>
-                <li><a href="*">Reviews</a></li>
-                <li><a href="*">Customers</a></li>
-                <li><a href="*">Settings</a></li>
+                <li><a href="*">{props.widget}</a></li>
+                <li><a href="*">{props.reviews}</a></li>
+                <li><a href="*">{props.customers}</a></li>
+                <li><a href="*">{props.settings}</a></li>
             </ul>
         </div>
     )
